@@ -1,15 +1,7 @@
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+## Getting started
+```bash
+git clone https://github.com/toastxc/OSL_VUE.git
+cd OSL_VUE
+yarn tauri:serve
 ```
